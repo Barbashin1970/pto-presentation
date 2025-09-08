@@ -1475,7 +1475,7 @@ select.form-control {
 }
 
 .quiz-option {
-  background: var(--color-secondary);
+  background: var(--color-gray-200);
   border: 1px solid var(--color-border);
   padding: var(--space-12) var(--space-16);
   border-radius: var(--radius-base);
